@@ -1,7 +1,7 @@
 <h1 align="center"> Recriando Layout 01-02 - Landing Page </h1>
 
 <p align="center">
-Este é um projeto de landing page criado durante o curso Explorer de Rocketseat</p>
+Este é um projeto de landing page criado durante o curso Explorer de Rocketseat.</p>
 
 <p align="center">
   <img alt="projeto landing page 01-02" src="./imagens/preview.png" width="100%">
