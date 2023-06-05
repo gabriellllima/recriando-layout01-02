@@ -4,7 +4,7 @@
 Este é um projeto de landing page criado durante o curso Explorer de Rocketseat</p>
 
 <p align="center">
-  <img alt="projeto landing page 01-02" src="./imagens/preview.jpg" width="100%">
+  <img alt="projeto landing page 01-02" src="./imagens/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
