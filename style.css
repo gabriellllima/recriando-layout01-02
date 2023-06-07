@@ -22,7 +22,8 @@ body{
     font-family: 'Dosis', sem serifa;
     color: #3F3D56;
     font-size: 32px;
-    margin-bottom: 16px;
+    margin: 0 auto 16px;
+    width: 540px;
 }
 
 #main h1 span{
@@ -38,7 +39,8 @@ body{
     font-weight: 400;
     color: #828282;
     font-size: 15px;
-    margin-bottom: 32px;
+    margin: 0 auto 32px;
+    width: 540px;
 }
 
 #main p span{
